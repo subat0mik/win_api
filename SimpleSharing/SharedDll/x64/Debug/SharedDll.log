@@ -1,0 +1,5 @@
+﻿  dllmain.cpp
+  SharedDll.cpp
+  Generating Code...
+     Creating library Z:\projects\win_api\SimpleSharing\x64\Debug\SharedDll.lib and object Z:\projects\win_api\SimpleSharing\x64\Debug\SharedDll.exp
+  SharedDll.vcxproj -> Z:\projects\win_api\SimpleSharing\x64\Debug\SharedDll.exe
