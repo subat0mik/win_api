@@ -1,5 +1,4 @@
-﻿  dllmain.cpp
-  SharedDll.cpp
+﻿  SharedDll.cpp
+  SharedTest.cpp
   Generating Code...
-     Creating library Z:\projects\win_api\SimpleSharing\x64\Debug\SharedDll.lib and object Z:\projects\win_api\SimpleSharing\x64\Debug\SharedDll.exp
-  SharedDll.vcxproj -> Z:\projects\win_api\SimpleSharing\x64\Debug\SharedDll.exe
+LINK : fatal error LNK1149: output filename matches input filename 'Z:\projects\win_api\SimpleSharing\x64\Debug\SharedDll.lib'
