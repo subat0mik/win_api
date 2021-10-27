@@ -1,3 +1,5 @@
+// Source code from Windows 10 System Programming by Pavel Yosifovich
+
 #include <windows.h>
 #include <stdio.h>
 
