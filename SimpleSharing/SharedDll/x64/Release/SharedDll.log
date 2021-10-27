@@ -1,9 +1,0 @@
-﻿  dllmain.cpp
-  SharedDll.cpp
-  SharedTest.cpp
-     Creating library Z:\projects\win_api\SimpleSharing\x64\Release\SharedDll.lib and object Z:\projects\win_api\SimpleSharing\x64\Release\SharedDll.exp
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  SharedDll.vcxproj -> Z:\projects\win_api\SimpleSharing\x64\Release\SharedDll.exe
