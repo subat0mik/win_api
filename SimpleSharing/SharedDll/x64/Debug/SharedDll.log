@@ -1,4 +1,0 @@
-﻿  SharedDll.cpp
-  SharedTest.cpp
-  Generating Code...
-LINK : fatal error LNK1149: output filename matches input filename 'Z:\projects\win_api\SimpleSharing\x64\Debug\SharedDll.lib'

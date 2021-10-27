@@ -1,7 +1,0 @@
-Z:\projects\win_api\DotNetAsync\DotNetAsync\bin\Debug\DotNetAsync.exe.config
-Z:\projects\win_api\DotNetAsync\DotNetAsync\bin\Debug\DotNetAsync.exe
-Z:\projects\win_api\DotNetAsync\DotNetAsync\bin\Debug\DotNetAsync.pdb
-Z:\projects\win_api\DotNetAsync\DotNetAsync\obj\Debug\DotNetAsync.csprojAssemblyReference.cache
-Z:\projects\win_api\DotNetAsync\DotNetAsync\obj\Debug\DotNetAsync.csproj.CoreCompileInputs.cache
-Z:\projects\win_api\DotNetAsync\DotNetAsync\obj\Debug\DotNetAsync.exe
-Z:\projects\win_api\DotNetAsync\DotNetAsync\obj\Debug\DotNetAsync.pdb
